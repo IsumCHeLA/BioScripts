@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np #строим график количества ортологов на первой и второй хромосоме
 import pandas as pd
 from matplotlib import pyplot as plt
 from tqdm.notebook import tqdm
