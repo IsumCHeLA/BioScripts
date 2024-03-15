@@ -9,4 +9,4 @@
 8. for filename in /home/aboba/Iwe/*; do /home/aboba/muscle5.1.linux_intel64 -align "$filename" -output "$filename.res.afa"; done
 9. python concat.py
 10. raxml 
-
+11. final_chromosome (построение финального графика, плотность генов на вторичной хромосоме на разных глубинах дерева)
